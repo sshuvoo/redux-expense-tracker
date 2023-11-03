@@ -1,0 +1,16 @@
+{
+  "transactions": [
+    {
+      "name": "Gift iPhone to GF",
+      "type": "expense",
+      "amount": 120000,
+      "id": 2
+    },
+    {
+      "name": "kidney sell",
+      "type": "income",
+      "amount": 200000,
+      "id": 3
+    }
+  ]
+}
